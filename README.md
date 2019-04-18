@@ -1,2 +1,2 @@
 # primify
-Prime Factorization with Ruby
+Finds the prime factors of a given number
